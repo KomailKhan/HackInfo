@@ -11,7 +11,7 @@
                                        FBI
                              [Facebook Informations]
 ```
-FBI is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
+HackInfo is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 
 
 
@@ -19,8 +19,8 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
-$ cd fbi
+$ git clone https://github.com/KomailKhan/HackInfo.git
+$ cd HackInfo
 ```
 
 # [ Setup ]
@@ -29,7 +29,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 fbi.py
+$ python2 FBInfo.py
 ```
 # [ Screenshot ]
 <img src="https://image.ibb.co/iLFhD9/fbi.png"/>
@@ -37,9 +37,3 @@ $ python2 fbi.py
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
-
-![](https://image.ibb.co/i4ES3U/bc.png)
-
-   ![](https://image.ibb.co/iniWV9/electrum_3_2_2_2018_08_30_21_49_44.png)
-
-Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
