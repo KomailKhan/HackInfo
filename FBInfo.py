@@ -55,8 +55,8 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('F B I').center(44)
-		print (W + '     [' + G +'Facebook Information'+ W + ']')
+		print ('F B Info').center(44)
+		print (W + '     [' + G +'Type help To See The Menu'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
