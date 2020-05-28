@@ -66,11 +66,11 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
+    Author     KomailKhan
     Name       Facebook Information
     Version    Full Version
-    Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    Date       28/05/2020 
+    WhatsApp   +9230124788959
 
 * if you find any errors or problems , please contact
   author
