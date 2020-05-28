@@ -25,7 +25,7 @@ except ImportError:
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
-	print ('F B I').center(44)
+	print ('Komail Khan F B Info Hacking').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -55,8 +55,8 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('F B Info').center(44)
-		print (W + '     [' + G +'Type help To See The Menu'+ W + ']')
+		print ('KomailKhan F B Info Hacking').center(44)
+		print (W + '     [' + G +'Type help To See The Hacking Menu'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
